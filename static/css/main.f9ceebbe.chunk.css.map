@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,iBAGE,qBACF,CAEA,KACE,QAAS,CACT,8BACF","file":"main.f9ceebbe.chunk.css","sourcesContent":["*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}\n\nbody {\n  margin: 0;\n  font-family: 'Cairo', sans-serif;\n}\n"]}
